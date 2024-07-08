@@ -1,0 +1,16 @@
+{
+  "name": "langchain4j-quarkus",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "git-precommit-checks": "^3.1.0",
+    "husky": "^8.0.0"
+  }
+}
