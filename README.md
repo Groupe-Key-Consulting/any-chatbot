@@ -7,6 +7,7 @@ A brief description of what this project does and who it's for
 Add badges from somewhere like: [shields.io](https://shields.io/)
 
 [![Apache v2](https://img.shields.io/badge/License-Apache-green.svg)](https://choosealicense.com/licenses/apache)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 ## Authors
 
