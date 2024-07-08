@@ -1,8 +1,6 @@
-
 # Langchain4j with Quarkus
 
 A brief description of what this project does and who it's for
-
 
 ## Badges
 
@@ -10,38 +8,35 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 [![Apache v2](https://img.shields.io/badge/License-Apache-green.svg)](https://choosealicense.com/licenses/apache)
 
-
 ## Authors
 
 - [Gaëtan Bloch](https://www.github.com/gaetanbloch)
-
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+git clone https://link-to-project
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+cd my-project
 ```
 
 Install dependencies
 
 ```bash
-  npm install
+npm install
 ```
 
 Start the server
 
 ```bash
-  npm run start
+npm run start
 ```
-
 
 ## Features
 
@@ -49,7 +44,6 @@ Start the server
 - Live previews
 - Fullscreen mode
 - Cross platform
-
 
 ## API Reference
 
@@ -77,25 +71,21 @@ Start the server
 
 Takes two numbers and returns the sum.
 
-
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
 
 ## Deployment
 
 To deploy this project run
 
 ```bash
-  npm run deploy
+npm run deploy
 ```
-
 
 ## Documentation
 
 [Documentation](https://linktodocumentation)
-
 
 ## Contributing
 
@@ -105,11 +95,8 @@ See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
 
-
 ## Acknowledgements
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
-
+- [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+- [Awesome README](https://github.com/matiassingers/awesome-readme)
+- [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
