@@ -1,0 +1,7 @@
+node_modules
+pnpm-lock.yaml
+.git
+target/
+.mvn
+.idea
+.husky

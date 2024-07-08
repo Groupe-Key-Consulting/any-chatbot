@@ -1,0 +1,13 @@
+printWidth: 100
+tabWidth: 2
+useTabs: false
+endOfLine: lf
+
+xmlWhitespaceSensitivity: ignore
+
+plugins:
+  - "@prettier/plugin-xml"
+  - prettier-plugin-java
+  - prettier-plugin-sql
+  - prettier-plugin-sh
+  - prettier-plugin-packagejson
